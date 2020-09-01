@@ -1,0 +1,60 @@
+0:Amarela
+1:Odivelas
+2:Senhor Roubado
+3:Ameixoeira
+4:Lumiar
+5:Quinta das Conchas
+6:Campo Grande:Verde:Campo Grande
+7:Cidade Universitária
+8:Campo Pequeno
+9:Entre Campos
+10:Saldanha:Vermelha:Saldanha
+11:Picoas
+12:Marquês de Pombal:Azul:Marquês de Pombal
+13:Rato
+0:Azul
+1:Reboleira
+2:Amadora Este
+3:Alfornelos
+4:Pontinha
+5:Carnide
+6:Colégio Militar / Luz
+7:Alto dos Moinhos
+8:Laranjeiras
+9:Jardim Zoológico
+10:Praça de Espanha
+11:São Sebastião:Vermelha:São Sebastião
+12:Parque
+13:Marquês de Pombal:Amarela:Marquês de Pombal
+14:Avenida
+15:Restauradores
+16:Baixa-Chiado:Verde:Baixa-Chiado
+17:Terreiro do Paço
+18:Santa Apolónia
+0:Verde
+1:Telheiras
+2:Campo Grande:Amarela:Campo Grande
+3:Alvalade
+4:Roma
+5:Areeiro
+6:Alameda:Vermelha:Alameda
+7:Arroios
+8:Anjos
+9:Intendente
+10:Martim Moniz
+11:Rossio
+12:Baixa-Chiado:Azul:Baixa-Chiado
+13:Cais do Sodré
+0:Vermelha
+1:São Sebastião:Azul:São Sebastião
+2:Saldanha:Amarela:Saldanha
+3:Alameda:Verde:Alameda
+4:Olaias
+5:Bela Vista
+6:Chelas
+7:Olivais
+8:Cabo Ruivo
+9:Oriente
+10:Moscavide
+11:Encarnação
+12:Aeroporto

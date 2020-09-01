@@ -1,0 +1,56 @@
+Amarela:Odivelas
+Amarela:Senhor Roubado
+Amarela:Ameixoeira
+Amarela:Lumiar
+Amarela:Quinta das Conchas
+Amarela:Campo Grande
+Amarela:Cidade Universitária
+Amarela:Campo Pequeno
+Amarela:Entre Campos
+Amarela:Saldanha
+Amarela:Picoas
+Amarela:Marquês de Pombal
+Amarela:Rato
+Azul:Reboleira
+Azul:Amadora Este
+Azul:Alfornelos
+Azul:Pontinha
+Azul:Carnide
+Azul:Colégio Militar / Luz
+Azul:Alto dos Moinhos
+Azul:Laranjeiras
+Azul:Jardim Zoológico
+Azul:Praça de Espanha
+Azul:São Sebastião
+Azul:Parque
+Azul:Marquês de Pombal
+Azul:Avenida
+Azul:Restauradores
+Azul:Baixa-Chiado
+Azul:Terreiro do Paço
+Azul:Santa Apolónia
+Verde:Telheiras
+Verde:Campo Grande
+Verde:Alvalade
+Verde:Roma
+Verde:Areeiro
+Verde:Alameda
+Verde:Arroios
+Verde:Anjos
+Verde:Intendente
+Verde:Martim Moniz
+Verde:Rossio
+Verde:Baixa-Chiado
+Verde:Cais do Sodré
+Vermelha:São Sebastião
+Vermelha:Saldanha
+Vermelha:Alameda
+Vermelha:Olaias
+Vermelha:Bela Vista
+Vermelha:Chelas
+Vermelha:Olivais
+Vermelha:Cabo Ruivo
+Vermelha:Oriente
+Vermelha:Moscavide
+Vermelha:Encarnação
+Vermelha:Aeroporto
