@@ -21,8 +21,9 @@ public class Main {
             e.printStackTrace();
         }
         processLines();
-        System.out.println("Enter two stations:");
+        
         while (true) {
+            System.out.println("-------------------\nEnter two stations:");
             String s1 = scn.nextLine();
             String s2 = scn.nextLine();
             if ((s1 = network.getNode(s1)) == null

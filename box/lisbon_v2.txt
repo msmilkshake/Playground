@@ -1,18 +1,18 @@
-0:Amarela
+0:Yellow
 1:Odivelas
 2:Senhor Roubado
 3:Ameixoeira
 4:Lumiar
 5:Quinta das Conchas
-6:Campo Grande:Verde:Campo Grande
+6:Campo Grande:Green:Campo Grande
 7:Cidade Universitária
 8:Campo Pequeno
 9:Entre Campos
-10:Saldanha:Vermelha:Saldanha
+10:Saldanha:Red:Saldanha
 11:Picoas
-12:Marquês de Pombal:Azul:Marquês de Pombal
+12:Marquês de Pombal:Blue:Marquês de Pombal
 13:Rato
-0:Azul
+0:Blue
 1:Reboleira
 2:Amadora Este
 3:Alfornelos
@@ -23,32 +23,32 @@
 8:Laranjeiras
 9:Jardim Zoológico
 10:Praça de Espanha
-11:São Sebastião:Vermelha:São Sebastião
+11:São Sebastião:Red:São Sebastião
 12:Parque
-13:Marquês de Pombal:Amarela:Marquês de Pombal
+13:Marquês de Pombal:Yellow:Marquês de Pombal
 14:Avenida
 15:Restauradores
-16:Baixa-Chiado:Verde:Baixa-Chiado
+16:Baixa-Chiado:Green:Baixa-Chiado
 17:Terreiro do Paço
 18:Santa Apolónia
-0:Verde
+0:Green
 1:Telheiras
-2:Campo Grande:Amarela:Campo Grande
+2:Campo Grande:Yellow:Campo Grande
 3:Alvalade
 4:Roma
 5:Areeiro
-6:Alameda:Vermelha:Alameda
+6:Alameda:Red:Alameda
 7:Arroios
 8:Anjos
 9:Intendente
 10:Martim Moniz
 11:Rossio
-12:Baixa-Chiado:Azul:Baixa-Chiado
+12:Baixa-Chiado:Blue:Baixa-Chiado
 13:Cais do Sodré
-0:Vermelha
-1:São Sebastião:Azul:São Sebastião
-2:Saldanha:Amarela:Saldanha
-3:Alameda:Verde:Alameda
+0:Red
+1:São Sebastião:Blue:São Sebastião
+2:Saldanha:Yellow:Saldanha
+3:Alameda:Green:Alameda
 4:Olaias
 5:Bela Vista
 6:Chelas

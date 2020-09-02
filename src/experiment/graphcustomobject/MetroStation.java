@@ -1,4 +1,4 @@
-package experiment.graph;
+package experiment.graphcustomobject;
 
 import java.util.Objects;
 
@@ -9,6 +9,13 @@ public class MetroStation {
     public MetroStation(String lineName, String stationName) {
         this.lineName = lineName;
         this.stationName = stationName;
+    }
+    
+    public MetroStation getByName(String name) {
+        if (name.equals(lineName)) {
+            return this;
+        }
+        return null;
     }
     
     public String getLineName() {

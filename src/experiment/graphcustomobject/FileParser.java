@@ -1,4 +1,4 @@
-package experiment.graph;
+package experiment.graphcustomobject;
 
 import java.io.*;
 import java.util.ArrayList;
