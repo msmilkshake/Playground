@@ -14,8 +14,8 @@ public class Main {
         dGraph.addEdge("Five", "Zero", 2.0);
         System.out.println(dGraph);
         System.out.println("Nodes: " + dGraph.getNodeCount() + ", Edges: " + dGraph.getEdgeCount());
-        System.out.println(dGraph.inDegreeOf("Zero"));
-        System.out.println(dGraph.outDegreeOf("Zero"));
+        System.out.println("In degree: " + dGraph.inDegreeOf("Zero"));
+        System.out.println("Out degree: " + dGraph.outDegreeOf("Zero"));
     
         UndirectedGraph<String> uGraph = new UndirectedGraph<>();
         uGraph.addEdge("Zero", "One");
@@ -29,7 +29,11 @@ public class Main {
         uGraph.addEdge("Five", "Zero");
         System.out.println(uGraph);
         System.out.println("Nodes: " + uGraph.getNodeCount() + ", Edges: " + uGraph.getEdgeCount());
-        System.out.println(uGraph.inDegreeOf("Zero"));
-        System.out.println(uGraph.outDegreeOf("Zero"));
+        System.out.println("In degree: " + uGraph.inDegreeOf("Zero"));
+        System.out.println("Out degree: " + uGraph.outDegreeOf("Zero"));
+        uGraph.removeEdge("Five", "Zero");
+        System.out.println(uGraph);
+        System.out.println("Nodes: " + uGraph.getNodeCount() + ", Edges: " + uGraph.getEdgeCount());
+        System.out.println("In degree: " + uGraph.inDegreeOf("Zero"));
     }
 }

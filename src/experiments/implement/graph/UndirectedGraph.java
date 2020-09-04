@@ -18,6 +18,14 @@ public class UndirectedGraph<T> extends DirectedGraph<T> {
     }
     
     @Override
+    public boolean removeEdge(T node1, T node2) {
+        if (super.removeEdge(node1, node2)) {
+            return super.removeEdge(node2, node1);
+        }
+        return false;
+    }
+    
+    @Override
     public Set<T> inDegreeOf(T node) {
         return super.outDegreeOf(node);
     }
