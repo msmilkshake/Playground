@@ -27,7 +27,7 @@ public class Main {
         uGraph.addEdge("Four", "Five");
         uGraph.addEdge("Five", "Four");
         uGraph.addEdge("Five", "Zero");
-        System.out.println(dGraph);
+        System.out.println(uGraph);
         System.out.println("Nodes: " + uGraph.getNodeCount() + ", Edges: " + uGraph.getEdgeCount());
         System.out.println(uGraph.inDegreeOf("Zero"));
         System.out.println(uGraph.outDegreeOf("Zero"));
