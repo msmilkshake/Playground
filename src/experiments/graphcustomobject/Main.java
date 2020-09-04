@@ -1,4 +1,4 @@
-package experiment.graphcustomobject;
+package experiments.graphcustomobject;
 
 import java.util.LinkedList;
 import java.util.Map;

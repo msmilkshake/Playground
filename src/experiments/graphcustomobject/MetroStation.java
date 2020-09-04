@@ -1,4 +1,4 @@
-package experiment.graphcustomobject;
+package experiments.graphcustomobject;
 
 import java.util.Objects;
 
