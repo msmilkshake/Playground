@@ -81,6 +81,17 @@ public class DirectedGraph<T> {
         return !Objects.equals(weight, oldWeight);
     }
     
+    public boolean addEdge(String data) {
+        String[] splitData = data.split("\\s+");
+        if (splitData.length == 3) {
+            T from = (T) splitData[0];
+            T to = (T) splitData[1];
+            double weight = Double.parseDouble(splitData[2]);
+            return addEdge(from, to, weight);
+        }
+        return false;
+    }
+    
     public double getEdgeWeight(T from, T to) {
         if (hasEdge(from, to)) {
             return graphData.get(from).get(to);
